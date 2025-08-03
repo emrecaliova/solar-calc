@@ -119,4 +119,5 @@ Meteorological Engineer
 
 ### 📄 License
 
-This project is open-source. You may use, modify, and distribute freely, but please cite the author when appropriate.
+This project is licensed under the MIT License.
+You may use, modify, and distribute it freely. Please credit the author where appropriate.
